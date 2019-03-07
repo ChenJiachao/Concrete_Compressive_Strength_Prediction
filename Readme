@@ -1,2 +1,4 @@
 This is a Concrete Compressive Strength Dataset from UCI Machine Learning Repository
 For more Description, see https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
+This project used Linear Regression model to predict the Concrete Compressive Strenght based on
+different materials components
